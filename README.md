@@ -7,6 +7,6 @@
       
 - [x] Create an abstraction to make conversions among different temperature systems such as Celsius, Farhenheit and Kelvin. Create a calculator that is loosely coupled to that abstraction i.e. program to an interface, not an implementation principles is observed. Make sure that the program can interact with the user so that user can achieve some conversions using the program.
       
-- [ ] How would you implement a program to list go source code files in a given directory including all sub-directories recursively? Please use filepath.WalkDir() function (https://pkg.go.dev/path/filepath#WalkDir) for this purpose.
+- [x] How would you implement a program to list go source code files in a given directory including all sub-directories recursively? Please use filepath.WalkDir() function (https://pkg.go.dev/path/filepath#WalkDir) for this purpose.
 
 ## Do not forget to commit the initial and final work.
